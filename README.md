@@ -6,10 +6,10 @@
 My account contains several project repositories which I will outline here:
 
 - **Machine-Learning-and-Statistics-Project-2020**
-The aim of this project was to create a web service that uses machine learning to make predictions for the power output from wind turbines based on their wind speed values. 
+The aim of this project was to create a Flask web application that uses machine learning models to make predictions for the power output from wind turbines based on their wind speed values. Neural networks and polynomial regression models were used.
 
 - **Machine-Learning-and-Statistics-Tasks-Project-2020**
-Four tasks to be completed in a single Jupyter [notebook](https://github.com/angela1C/Machine-Learning-and-Statistics-Tasks-project-2020/blob/0adb514fea6e8c7d49208d46c303ebf531aee6d0/Tasks.ipynb).  
+Four statistics and machine-learning tasks to be completed in a single Jupyter [notebook](https://github.com/angela1C/Machine-Learning-and-Statistics-Tasks-project-2020/blob/0adb514fea6e8c7d49208d46c303ebf531aee6d0/Tasks.ipynb).  
  
 - **Data-Representation-Project-2020**
 The project for this module involved writing a Flask server program that consumes a REST API and creating a web interface. 
@@ -27,7 +27,7 @@ Working with a relational database (using MySQL) and a non-relational database (
 A personal website using HTML5, CSS, JavaScript and the JavaScript library D3 for some basic visualisations. 
 
 - **Programming-for-Data-Analysis-Simulation-Project-2019**
-Simulating a real-world phenomenon using Python's `numpy.random`. I chose to simulate the World Happiness Score, in particular the main determinants of happiness at country levels across the world as reported in the [World Happiness Report(https://worldhappiness.report).
+Simulating a real-world phenomenon using Python's `numpy.random` module. I chose to simulate the World Happiness Score, in particular the main determinants of happiness at country levels across the world as reported in the [World Happiness Report](https://worldhappiness.report).
 
 - **Programming-for-Data-Analysis-Random-Numbers-Project-2019**
 Explaining the overall use of Python’s `numpy.random package`and in particular the use of  its simple random data functions,  permutations functions and distributions functions as well as the use of seeds in generating pseudorandom numbers.
