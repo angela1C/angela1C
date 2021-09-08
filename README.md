@@ -1,18 +1,15 @@
 ### Hi there 👋
-- 🔭 I’m currently a student in GMIT doing the Higher Diploma in Computing and Data Analytics.
-- 🤔 I previously worked in the financial services industry
-- 🌱 I’m currently learning how to make interactive dashbaords and visualisations using Dash
----
-My account contains several project repositories which I will outline here:
+🔭 I am a student in GMIT completing the Higher Diploma in Computing and Data Analytics programme.
+Some of the projects for the course are contained in the following repositories.
 
 - **Machine-Learning-and-Statistics-Project-2020**
-The aim of this project was to create a Flask web application that uses machine learning models to make predictions for the power output from wind turbines based on their wind speed values. Neural networks and polynomial regression models were used.
+A Flask web app that uses machine learning models to make predictions for the power output from wind turbines based on their wind speed values. 
 
 - **Machine-Learning-and-Statistics-Tasks-Project-2020**
-Four statistics and machine-learning tasks to be completed in a single Jupyter [notebook](https://github.com/angela1C/Machine-Learning-and-Statistics-Tasks-project-2020/blob/0adb514fea6e8c7d49208d46c303ebf531aee6d0/Tasks.ipynb).  
+Four tasks to be completed in a single Jupyter [notebook](https://github.com/angela1C/Machine-Learning-and-Statistics-Tasks-project-2020/blob/0adb514fea6e8c7d49208d46c303ebf531aee6d0/Tasks.ipynb).  
  
 - **Data-Representation-Project-2020**
-The project for this module involved writing a Flask server program that consumes a REST API and creating a web interface. 
+A Flask web app with REST API. CRUD operations on a MySQL database. Links to the Irish open data portal at <https://data.gov.ie> using the CKAN APIs.
 
 - **Multi-Paradigm-Programming-Shop-Project-2020**
 The project consisted of writing code for a shop in both a Procedural style and an Object Oriented manner using C, Python and Java as well as a report comparing the solutions achieved using the procedural approach and the object oriented approach.
