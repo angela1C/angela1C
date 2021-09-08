@@ -26,14 +26,14 @@ Working with a relational database (using MySQL) and a non-relational database (
 - **Web-Applications-Development-Project-2019**
 A personal website using HTML5, CSS, JavaScript and the JavaScript library D3 for some basic visualisations. 
 
--**Programming-for-Data-Analysis-Simulation-Project-2019**
+- **Programming-for-Data-Analysis-Simulation-Project-2019**
 Simulating a real-world phenomenon using Python's `numpy.random`. I chose to simulate the World Happiness Score, in particular the main determinants of happiness at country levels across the world as reported in the [World Happiness Report(https://worldhappiness.report).
 
--**Programming-for-Data-Analysis-Random-Numbers-Project-2019**
+- **Programming-for-Data-Analysis-Random-Numbers-Project-2019**
 Explaining the overall use of Python’s `numpy.random package`and in particular the use of  its simple random data functions,  permutations functions and distributions functions as well as the use of seeds in generating pseudorandom numbers.
 
 - **Fundamentals-of-Data-Analysis-Project-2019**
-Data analysis of the Tips dataset. 
+Exploratory data analysis and regression of the Tips dataset using Python libraries including `pandas` and `seaborn`.
 
 - **Programming-and-Scripting-Project-2019**
 Data analysis of the Iris dataset using Python libraries including `pandas`, `matplotlib` and `seaborn`. 
