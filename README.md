@@ -11,7 +11,6 @@ The aim of this project was to create a web service that uses machine learning t
 - **Machine-Learning-and-Statistics-Tasks-project-2020**
 Four tasks to be completed in a single Jupyter [notebook](https://github.com/angela1C/Machine-Learning-and-Statistics-Tasks-project-2020/blob/0adb514fea6e8c7d49208d46c303ebf531aee6d0/Tasks.ipynb).  
  
-
 - **Data-Representation-Project-2020**
 The project for this module involved writing a Flask server program that consumes a REST API and creating a web interface. 
 
@@ -21,17 +20,26 @@ The project consisted of writing code for a shop in both a Procedural style and 
 - **Computational_thinking_with_algorithms_2020**
 Reviewing various comparison and non-comparison sorting algorithms, describing how each algorithm works and considering concepts such as their time and space complexities, performance and stability. Writing a benchmarking application in Python.
 
-- **Web_Applications_Development_project_2019**
-A personal website using HTML5, CSS, JavaScript and the JavaScript library D3 for some basic visualisations. 
-
 - **/Applied_Databases_project_2020**
-
 Working with a relational database (using MySQL) and a non-relational database (using MongoDb) as well as a discussion on normalisation.
 
+- **Web_Applications_Development_project_2020**
+A personal website using HTML5, CSS, JavaScript and the JavaScript library D3 for some basic visualisations. 
+
+-**Programming-for-data-analysis-Simulation-Project-2019**
+Simulating a real-world phenomenon using Python's `numpy.random`. I chose to simulate the World Happiness Score, in particular the main determinants of happiness at country levels across the world as reported in the [World Happiness Report(https://worldhappiness.report).
+
+-**Programming-for-Data-Analysis-numpy.random-project-2019**
+Explaining the overall use of Python’s `numpy.random package`and in particular the use of  its simple random data functions,  permutations functions and distributions functions as well as the use of seeds in generating pseudorandom numbers.
+
 - **Programming-and-Scripting-Project_2019**
+Data analysis of the Iris dataset using Python libraries including `pandas`, `matplotlib` and `seaborn`. 
 
+- **Programming-and-Scripting-Problem-Set-2019**
+A set of ten programming problems aimed at learning core Python skills including input and output from the command line, handling exceptions, dates and times using the datetime module, writing functions and control flow in Python, string methods, reading and writing files and basic plotting using Matplotlib. 
 
-
+- **Fundamentals_Data_Analysis_Project-2019**
+Data analysis of the Tips dataset. 
 
 
 <!--
