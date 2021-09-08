@@ -18,7 +18,8 @@ The project consisted of writing code for a shop in both a Procedural style and 
 Benchmarking sorting algorithms in Python. Reviewing various comparison and non-comparison sorting algorithms, describing how each algorithm works and considering concepts such as their time and space complexities, performance and stability. 
 
 - **Applied-Databases-Project-2020**
-CRUD operations on a relational database (MySQL) and a non-relational database (MongoDB) as well as a discussion on normalisation.
+CRUD operations on a relational database (MySQL) and a non-relational database (MongoDB) with a user interface to the databases using Python.
+A discussion on normalisation.
 
 - **Web-Applications-Development-Project-2019**
 A simple website using HTML5, CSS, JavaScript and the JavaScript library D3 for some basic data visualisations. Linked pages and user login.
