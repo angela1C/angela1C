@@ -1,0 +1,97 @@
+/*--------------------- FONTS -------------------*/
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Roboto|Source+Code+Pro');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+}
+
+h2, h3, h4, h5, h6, h7, h8{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.code {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.fas {
+    margin-right: 5px;
+    color: rgb(199, 240, 240);
+}
+
+
+/*------------------- LINKS---- ---------------*/
+
+a{
+    color: #6c757d;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #89e4e4
+}
+
+/*--------------- BACKGROUND ---------------*/
+
+.background-image {
+   /*background-image: url("https://somewhere.com/path-to/background.jpg");*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 25% 25%;
+    position: fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    z-index: -1;
+}
+
+.mycolumn {
+    box-shadow: 0 2px 4px rgba(240, 236, 236, 0.12), 0 2px 3px rgba(240, 238, 238, 0.24);
+    border-radius: 5px;
+    background:rgba(255,255,255,0.9);
+    font-weight: 600;
+}
+
+.myothercolumn  {
+    box-shadow: 0 1px 3px rgba(255, 254, 254, 0.12), 0 1px 2px #faf3f33d;
+    border-radius: 5px;
+    background:rgba(255,255,255,0.9);
+}
+
+/*------------ FOOTER ------------*/
+
+
+.social-icon-shadow{
+    text-shadow: 2px 2px rgba(250, 195, 195, 0.5);
+}
+
+.text-shadow{
+    text-shadow: 1px 1px rgba(236, 194, 194, 0.5);
+}
+
+
+/*------------ SOCIAL ICONS ------------*/
+
+.fab{
+    color: #ffffff; 
+    transition: all 0.2s ease-in-out 0.2s;
+    -moz-transition: all 0.2s ease-in-out 0.2s;
+    -webkit-transition: all 0.2s ease-in-out 0.2s;
+}
+
+.fab:hover{
+    transform: scale(1.4);
+}
+  
+.fa-github:hover{
+    color: #000000;
+} 
+
+
+
